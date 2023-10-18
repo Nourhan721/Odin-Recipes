@@ -1,0 +1,73 @@
+body{
+    background-color: rgba(227, 193, 240, 0.993);
+}
+.logo{
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    border-radius: 50px;
+    padding: 15px;
+    
+}
+.logo img{
+    float: right;
+}
+.logo h1{
+    float: right;
+}
+.head2{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+}
+.head2 img{
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+.head2 h2{
+    display: flex;
+    margin: 15px;
+    justify-content: center;
+}
+.container{
+    margin: 80px;
+    margin-top: 150px;
+    padding: 20 20 20 20;
+    width: 90%;
+    height: 40%;
+    display: flex;
+}
+.noodles{
+    padding: 10px;
+    width: 25%;
+}
+.tea{
+    float: left;
+    padding: 10px;
+    width: 25%;
+}
+.rice{
+    padding: 10px;
+    width: 25%;
+}
+.water{
+    padding: 10px;
+    width: 25%;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: darksalmon;
+}
+.ps{
+    width: 50px;
+    height: 50px;
+}
